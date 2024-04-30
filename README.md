@@ -12,5 +12,3 @@ I'm Levi, an IT student and backend developer with a passion for gaming 🎮. I 
 ## Contact Me 📫
 
 You can reach me on Discord at levii22 or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedkaram22/) 🤝. I'm always open to collaborate on new projects and learn from other developers in the community 👨‍💻.
-
-If you'd like to support my work, you can buy me a ☕️ on [ko-fi](https://ko-fi.com/levii22). Thank you!
